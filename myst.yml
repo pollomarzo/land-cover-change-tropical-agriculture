@@ -1,0 +1,44 @@
+version: 1
+extends:
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+
+project:
+  authors:
+  - name: Sofia Corradi Oliveira
+    email: sofiacorradio@gmail.com
+    affiliations:
+    - Federal University of Minas Gerais, Brazil
+    orcid: 0000-0001-8644-9674
+    corresponding: true
+  - name: Andres Fernando Figueroa Curo
+    affiliations:
+    - National Agrarian University of La Molina
+    - Water Research and Technology Center (UTEC)
+    orcid: 0009-0008-4778-1381
+  - name: Manojna Polisetty
+    affiliations:
+    - World Resource Institute India
+    orcid: 0009-0002-2666-5855
+  - name: Magnolia Song
+    affiliations:
+    - Monash University
+    orcid: 0000-0003-4123-7170
+  - name: Daniela Velasquez Gushiken
+    affiliations:
+    - National Agrarian University of La Molina
+    orcid: 0009-0002-0092-4599
+  - name: Maryann Alessandra Alata Chambilla
+    affiliations:
+    - National Agrarian University of La Molina
+    orcid: 0009-0002-0198-5553
+
+  id: land-cover-change-tropical-agriculture
+  title: The influence of rapid agricultural expansion on land use and land cover changes in tropical Mato Grosso, Brazil
+  github: https://github.com/pollomarzo/land-cover-change-tropical-agriculture
+  # plugins:
+  # - github-issues.mjs
+
+site:
+  template: book-theme
+  options:
+    hide_toc: true
