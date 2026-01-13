@@ -1,3 +1,8 @@
 thumbnail: CISP2024-Land-cover-change-agricultural-increase-figure.png
-description: |
-  Analysis of land cover changes in Mato Grosso, Brazil (2001-2021), showing a 7% reduction in forested areas and expansion in grasslands and croplands driven by agricultural development. The study reveals strong correlations between deforestation, agricultural expansion, and socioeconomic growth using MODIS satellite data.
+tags:
+  domains:
+  - Agriculture
+  packages:
+  - package1
+  - p2
+  - p3
