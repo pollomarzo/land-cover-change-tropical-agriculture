@@ -1,5 +1,5 @@
 ---
-title: The influence of rapid agricultural expansion on land use and land cover changes in tropical Mato Grosso, Brazil
+title: Exploring Land Cover Change Interactions with Environmental and Socioeconomic Factors in a Tropical Region due to Rapid Agricultural Increase
 abbreviations:
     GDP: Gross Domestic Product
     NPP: Net Primary Productivity
@@ -12,6 +12,15 @@ keywords:
   - Surface Temperature
   - Agricultural Impact
 ---
+
+# Seminar presentation
+```{iframe} https://www.youtube.com/embed/Mjw4j0LdTps
+:width: 100%
+
+This article was presented as part of a series of seminars chaired by scientists from Climatematch Academy’s collaborating organizations, CMIP (Couple Model Intercomparison Project) and LEAP (Learning the Earth with Artificial Intelligence and Physics).
+```
+
+
 
 # Claim
 
