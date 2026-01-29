@@ -38,3 +38,7 @@ project:
   id: land-cover-change-tropical-agriculture
   title: The influence of rapid agricultural expansion on land use and land cover changes in tropical Mato Grosso, Brazil
   github: https://github.com/pollomarzo/land-cover-change-tropical-agriculture
+  keywords:
+    - Rainforest
+    - Surface Temperature
+    - Agricultural Impact
